@@ -3,11 +3,17 @@
 .head{
     background-color:  rgb(255, 191, 96);
 }
-#mega_contenedor{
+#fila_uno {
     background-color: rgb(241, 220, 188);
+    
 }
 
 #boton1{
     background-color: rgb(187, 113, 2);
 }
+
+.fila_uno{
+    background-color: rgb(241, 220, 188);
+}
+
 
